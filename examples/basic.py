@@ -1,5 +1,7 @@
 """
 wget https://github.com/thewh1teagle/phonikud-chatterbox/releases/download/asset-files-v1/female1.wav -O input.wav
+wget https://github.com/thewh1teagle/audioseal-onnx/releases/download/v1.0.0/models.tar.gz
+tar xf models.tar.gz
 uv run examples/basic.py
 """
 

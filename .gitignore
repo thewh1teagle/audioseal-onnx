@@ -10,3 +10,4 @@ wheels/
 .venv
 *.wav
 *.onnx
+*.tar.gz
